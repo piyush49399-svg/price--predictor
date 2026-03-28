@@ -11,7 +11,7 @@ from datetime import timedelta
 # -------------------------
 # 1. Load Dataset
 # -------------------------
-data = pd.read_csv("F:\\New folder\\price predictor\\data\\sales.csv")
+data = pd.read_csv("F:\\price predictor\\data\\sales.csv")
 
 # Convert Date column to datetime
 data['Date'] = pd.to_datetime(data['Date'])
