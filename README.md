@@ -30,4 +30,4 @@ Regression models in machine learning
 Feature importance and model evaluation
 Real-world application of ML in pricing systems
 
-Just say: “improve more” 🚀
+
